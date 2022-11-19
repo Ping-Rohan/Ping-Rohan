@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rohan Tiwari
 - 👀 I’m interested in web and mobile apps development
 - 🌱 I’m currently learning Fullstack Development
-- 📫 How to reach me ping.techyrohan@gmail.com
+- 📫 You can reach me at ping.techyrohan@gmail.com
