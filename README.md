@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rohan Tiwari
-- MERN || UI/UX || PYTHON || JAVASCRIPT || TYPESCRIPT
+- INTERESTED IN MERN STACK || UI/UX || PYTHON || JAVASCRIPT || TYPESCRIPT
 - 📫 You can reach me at ping.techyrohan@gmail.com
