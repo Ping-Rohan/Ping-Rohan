@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rohan Tiwari
-- MERN 
+- MERN || UI/UX || PYTHON
 - 📫 You can reach me at ping.techyrohan@gmail.com
